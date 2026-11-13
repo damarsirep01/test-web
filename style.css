@@ -1,0 +1,1 @@
+body{margin:0;background:#0c1110;color:#eef4ef;font:16px Arial,sans-serif}main,header,footer{max-width:1000px;margin:auto;padding:24px}section{padding:50px 0;border-bottom:1px solid #344139}a{color:#b7f397}.card{padding:20px;background:#17211d;border-radius:10px;margin:12px 0}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
